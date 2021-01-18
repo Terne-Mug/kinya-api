@@ -1,0 +1,112 @@
+{
+ "kinya": [
+    {
+      "id": 0,
+      "word": "aba",
+      "phonetics": [
+                     {
+                      "text": "/aba/",
+                      "audio": ""
+                     }
+                    ],
+      "meanings": [
+                    {
+                      "partOfSpeech": "demonstrative",
+                      "definitions": [
+                                       {
+                                          "definition": "these",
+                                          "context": "Always used to describe people, not on objects neither on animals",
+                                          "example": "aba bana - these children"
+                                       }
+                                     ]
+                    },
+                    {
+                      "partOfSpeech": "pronoun",
+                      "definitions": [
+                                       {
+                                          "definition": "those of",
+                                          "example": "aba Tom (abana), bagiye - those of Tom (children), left"
+                                       }
+                                     ]
+                    }       
+                  ]
+    },
+     {
+      "id": 1,
+      "word": "aka",
+      "phonetics": [
+                     {
+                      "text": "/aka/",
+                      "audio": ""
+                     }
+                    ],
+      "meanings": [
+                    {
+                      "partOfSpeech": "demonstrative",
+                      "definitions": [
+                                       {
+                                          "definition": "this",
+                                          "context": "Used with words that start with ak- (e.g akibo, akabazo, akaga)",
+                                          "example": "aka kabati ni kanini! - this closet is big!"
+                                       }
+                                     ]
+                    },
+                    { 
+                      "partOfSpeech": "pronoun",
+                      "definitions": [
+                                       {
+                                          "definition": "that of",
+                                          "example": "aka Tom (akabati), karafunze - that of Tom (closet), is closed"
+                                       }
+                                     ]
+                    },
+                    { 
+                      "partOfSpeech": "verb",
+                      "definitions": [
+                                       {
+                                          "definition": "from kwaka (-tse) /kwaaka/ to be burning, be started ",
+                                          "example": "umuriro uri kwaka - the fire is burning "
+                                       }
+                                     ]
+                    },
+                    { 
+                      "partOfSpeech": "verb",
+                      "definitions": [
+                                       {
+                                          "definition": "from kwaka (-tse) /kwaaka/ to take away, take from",
+                                          "example": "aka Marc infunguzo - take the keys from Marc"
+                                       }
+                                     ]
+                    }        
+                  ]
+    },
+    {
+      "id": 3,
+      "word": "amazi",
+      "phonetics": [
+                     {
+                      "text": "/amâazi/",
+                      "context": "",
+                      "audio": "http://kinyarwanda.net/media/audio/3971.mp3"
+                     }
+                    ],
+      "meanings": [
+                    {
+                      "partOfSpeech": "noun",
+                      "definitions": [
+                                       {
+                                          "definition": "water",                                          
+                                          "example": "clean water - amazi meza"
+                                       }
+                                     ]
+                    }                  
+                  ]
+    }
+  ]
+}
+
+
+
+
+
+
