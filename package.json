@@ -4,7 +4,8 @@
   "description": "This is an api for kinyarwanda words with their respective pronounciation by a native speaker.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
   },
   "repository": {
     "type": "git",
