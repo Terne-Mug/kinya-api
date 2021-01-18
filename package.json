@@ -1,0 +1,22 @@
+{
+  "name": "kinya-api",
+  "version": "1.0.0",
+  "description": "This is an api for kinyarwanda words with their respective pronounciation by a native speaker.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Terne-Mug/kinya-api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Terne-Mug/kinya-api/issues"
+  },
+  "homepage": "https://github.com/Terne-Mug/kinya-api#readme",
+  "dependencies": {
+    "json-server": "^0.16.3"
+  }
+}
